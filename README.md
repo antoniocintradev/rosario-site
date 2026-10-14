@@ -91,7 +91,7 @@ João Ferreira d’Almeida, Lisboa, 1911. A página não reproduz a transcriçã
 direcionam aos canais e vídeos de seus respectivos responsáveis; não indicam
 parceria ou endosso ao aplicativo.
 
-[Canal Antonio Cintra](https://www.youtube.com/channel/UCyzJuRFMojBkTph0PtqLWlw)
+
 
 ## Uso e privacidade
 
@@ -122,4 +122,5 @@ Também precisam ser conferidos:
 
 Como evolução, estão previstos áudio mais leve, revisão dos links e novas
 recitações, mantendo a proposta simples de oração em família.
+
 
