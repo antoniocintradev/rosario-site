@@ -14,7 +14,7 @@ do Salmo 91 com acompanhamento instrumental.
 - Links para os vídeos do Frei Gilson / Som do Monte.
 - Salmo 91 com controles de reprodução, pausa e avanço pelo áudio.
 - Ritmo de reprodução ajustável: 0,85×, 1× e 1,15×.
-- Acesso ao canal de Déia e Tiba para acompanhar as orações.
+- Acesso direto à Coroa das Lágrimas de Nossa Senhora - Oração, no YouTube.
 - Link para o canal de Antonio Cintra no YouTube.
 - Layout responsivo e créditos da produção disponíveis na página.
 
@@ -122,3 +122,4 @@ Também precisam ser conferidos:
 
 Como evolução, estão previstos áudio mais leve, revisão dos links e novas
 recitações, mantendo a proposta simples de oração em família.
+
