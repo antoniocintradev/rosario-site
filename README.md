@@ -124,3 +124,16 @@ Como evolução, estão previstos áudio mais leve, revisão dos links e novas
 recitações, mantendo a proposta simples de oração em família.
 
 
+
+## Melhorias de leitura e uso no celular
+
+- Letras maiores e ajuste A−/A+ entre 100% e 150% da base de 18 px.
+- Preferência de tamanho salva apenas no navegador por localStorage.
+- Convite para os recursos abaixo no lugar do botão inicial do Salmo.
+- Nomes completos dos dias com links diretos para cada terço.
+- Botão de ouvir/pausar abaixo da capa do Salmo, sincronizado ao player.
+- Cartões em duas colunas no celular e uma em telas muito estreitas.
+
+A versão atual passou por verificações da seleção dos dias, links, quinta-feira,
+limites e persistência da fonte, e sincronização do botão play/pausa com eventos
+simulados. A revisão visual e a reprodução em aparelho real continuam pendentes.
